@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">suci_mobile</string>
+    <string name="verif">verification</string>
+    <string name="kode_berhasil">kode berhasil diperiksa</string>
+    <string name="periksa">Silahkan Periksa Nomor Anda</string>
+</resources>
