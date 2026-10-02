@@ -8,6 +8,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.suci_mobile.Pertemuan5.FifthActivity
 import com.example.suci_mobile.Pertemuan_3.ThirdResultActivity
 import com.example.suci_mobile.Pertemuan_4.FourthActivity
 import com.example.suci_mobile.databinding.ActivityMainBinding
@@ -38,6 +39,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
 
 
+
+        }
+        binding.btnToFifth.setOnClickListener {
+            val i = Intent(this, FifthActivity::class.java)
+            startActivity( i)
 
         }
     }
