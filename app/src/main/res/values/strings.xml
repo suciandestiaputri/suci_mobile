@@ -3,4 +3,9 @@
     <string name="verif">verification</string>
     <string name="kode_berhasil">kode berhasil diperiksa</string>
     <string name="periksa">Silahkan Periksa Nomor Anda</string>
+    <string name="profile_name">Suci Andestia Putri</string>
+    <string name="profile_bio">Teknik Informatika - Politeknik Caltex Riau</string>
+    <string name="profile_hobby">Bernyanyi</string>
+    <string name="profile_strength">Bisa beradaptasi dengan dunia teknologi</string>
+    <string name="profile_sosmed">suciandestia</string>
 </resources>
